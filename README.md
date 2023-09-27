@@ -2,7 +2,7 @@
 
 ## Github Account Assignment
 
-GitHub was built by _______ for _______
+GitHub was built by developers for developers
 
 Git is a ______ (VCS)
 
